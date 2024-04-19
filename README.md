@@ -1,6 +1,6 @@
 # About Me 
 
-I'm Jonathan Roach a 2B Honours Arts and Business Student pursuing a minor in Computing at the University of Waterloo.
+Hello! I'm Jonathan Roach, a 2B Honours Arts and Business Student pursuing a minor in Computing at the University of Waterloo.
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
