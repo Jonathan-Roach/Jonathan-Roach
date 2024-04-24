@@ -12,5 +12,5 @@ Hello! I'm Jonathan Roach, a 2B Honours Arts and Business Student pursuing a min
 ### Tools/Frameworks
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD.svg?style=fflat&logo=jquery&logoColor=white)
