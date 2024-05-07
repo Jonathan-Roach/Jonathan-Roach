@@ -8,6 +8,7 @@ Hello! I'm Jonathan Roach, a 2B Honours Arts and Business Student pursuing a min
 ![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-D14836.svg?style=flat&logo=racket&logoColor=white)
 
 ### Tools/Frameworks
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
