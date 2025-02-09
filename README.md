@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Jonathan-Roach&color=yellow)
 
-Hello! I'm Jonathan Roach, a 2B Honours Arts and Business Student pursuing a Computing minor at the University of Waterloo.
+Hello! I'm Jonathan Roach, a 3A Honours Arts and Business Student pursuing a Computing minor at the University of Waterloo.
 
 ---
 ### Connect With Me:
